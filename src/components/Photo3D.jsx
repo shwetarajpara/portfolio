@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion'
-import profileImg from '../assets/Gemini_Generated_Image_ec5ibyec5ibyec5i.png'
+import profileImg from '../assets/Gemini_Generated_Image_lksmsqlksmsqlksm.png'
 
 export default function Photo3D() {
   const wrapRef = useRef(null)
