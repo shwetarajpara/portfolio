@@ -3,10 +3,11 @@ import { motion, useInView } from 'framer-motion'
 import ScrambleHeading from './ScrambleHeading.jsx'
 
 const STACK = [
-  { name: 'react', version: '19.2.0', level: 100, learning: false },
+  { name: 'react js', version: '19.2.0', level: 100, learning: false },
+  { name: 'next js', version: '15.0.0', level: 80, learning: false },
   { name: 'typescript', version: '5.4.0', level: 100, learning: false },
   { name: 'php', version: '8.3.0', level: 90, learning: false },
-  { name: 'node', version: '20.11.0', level: 100, learning: false },
+  { name: 'node js', version: '20.11.0', level: 100, learning: false },
   { name: 'mongodb', version: '7.0.0', level: 50, learning: false },
   { name: 'mysql', version: '8.0.0', level: 100, learning: false },
   { name: 'postgresql', version: '16.2.0', level: 100, learning: false },
