@@ -67,7 +67,7 @@ export default function CustomCursor() {
     <div className="custom-cursor">
       <div
         ref={wrapRef}
-        className="fixed top-0 left-0 z-[100] pointer-events-none -translate-x-1/2 -translate-y-1/2 mix-blend-difference"
+        className="fixed top-0 left-0 z-[10000] pointer-events-none -translate-x-1/2 -translate-y-1/2 mix-blend-difference"
       >
         <svg
           ref={starRef}
